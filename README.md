@@ -32,6 +32,8 @@ php -S localhost:8000
 Customize the content (Modify index.html and style.css as needed).
 📷 Screenshots
 ![alt text](image-1.png)
+![Uploading image.png…]()
+
  
 
 📩 Contact
